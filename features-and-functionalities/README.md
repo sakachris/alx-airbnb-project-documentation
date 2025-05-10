@@ -9,4 +9,4 @@ The diagram is divided into three main sections:
 - **Non-Functional Requirements**: Emphasizing the importance of scalability, security, and performance to ensure a seamless and reliable application.
 ##
 
-![Features and Functionalities](<AirBnB Functionalities.drawio-1.png>)
+![Features and Functionalities](<AirBnB Functionalities.drawio.png>)
